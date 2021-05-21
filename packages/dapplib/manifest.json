@@ -1,0 +1,9 @@
+{
+    "name": "Conflux-Entity",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true,
+        "/category/collection/entity": true
+    }
+}
